@@ -1,0 +1,22 @@
+nav.navbar, .navbar-default {
+    background-color: coral;
+}
+
+.navbar-default{
+    background-image: none;
+    border: none;
+    border-radius: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: aliceblue;
+}
+
+.navbar-default .navbar-brand {
+    color: aliceblue;
+}
+
+.navbar-default .navbar-toggle{
+    border-color: antiquewhite;
+}
+
